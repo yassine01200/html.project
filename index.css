@@ -1,0 +1,28 @@
+h1 {
+    text-shadow: 1px 1px 3px red;
+    text-align: center;
+    background-color: #DDD;
+    padding: 10px;
+    width: 70% ;
+    margin: auto;
+    border-color: red blue;
+    border-style: solid;
+letter-spacing: 2px;
+
+
+}
+body{
+    background-image: url("./images/Best\ Background\ Wallpapers\ HD.jpg") ;
+}
+
+table{
+
+    width: 100% ;
+    border: black;
+}
+
+table td {
+    padding: 15px;
+    background-color: #EEE;
+
+}
